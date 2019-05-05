@@ -1,5 +1,4 @@
 # UI3
-## UI3_ListView/AlertDialog/XMLMenu/ActionMode
 ## ListView
 ~~~
 <?xml version="1.0" encoding="utf-8"?>
@@ -77,7 +76,7 @@ public class Simple_Adapter extends Activity {
     }
 }
 
-![Image text](https://github.com/1158509577/UI3/blob/master/app/src/resultimage/Sample_Adapter_result.png)
+![Image text](https://raw.githubusercontent.com/695400861/UI3-master/master/app/src/resultimage/Sample_Adapter_result.png)
 ~~~
 ## AlertDialog
 ~~~
@@ -166,8 +165,8 @@ public class Simple_Adapter extends Activity {
         });
         alertDialog.show();
  ~~~
-![Image text](https://github.com/1158509577/UI3/blob/master/app/src/resultimage/alertsuccee.png)
-![Image text](https://github.com/1158509577/UI3/blob/master/app/src/resultimage/alertfailure.png)
+![Image text](https://raw.githubusercontent.com/695400861/UI3-master/master/app/src/resultimage/alertsuccee.png)
+![Image text](https://raw.githubusercontent.com/695400861/UI3-master/master/app/src/resultimage/alertfailure.png)
 
 ## XML Menu
 ~~~
@@ -261,9 +260,9 @@ public class XML_menu extends AppCompatActivity {
         }
     }
 ~~~
-![Image text](https://github.com/1158509577/UI3/blob/master/app/src/resultimage/xmlmenuresult1.png)
-![Image text](https://github.com/1158509577/UI3/blob/master/app/src/resultimage/xmlmenuresult2.png)
-![Image text](https://github.com/1158509577/UI3/blob/master/app/src/resultimage/xmlmenuresult3.png)
+![Image text](https://raw.githubusercontent.com/695400861/UI3-master/master/app/src/resultimage/xmlmenuresult1.png)
+![Image text](https://raw.githubusercontent.com/695400861/UI3-master/master/app/src/resultimage/xmlmenuresult2.png)
+![Image text](https://raw.githubusercontent.com/695400861/UI3-master/master/app/src/resultimage/xmlmenuresult3.png)
 
 ## Action Mode
 ~~~
@@ -453,5 +452,5 @@ public class Action_Mode extends ListActivity {
 
 }
 ~~~
-![Image text](https://github.com/1158509577/UI3/blob/master/app/src/resultimage/actionMode1.png)
-![Image text](https://github.com/1158509577/UI3/blob/master/app/src/resultimage/actionMode2.png)
+![Image text](https://raw.githubusercontent.com/695400861/UI3-master/master/app/src/resultimage/actionMode1.png)
+![Image text](https://raw.githubusercontent.com/695400861/UI3-master/master/app/src/resultimage/actionMode2.png)
